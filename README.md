@@ -354,8 +354,6 @@ plt.show()
 <img width="307" height="410" alt="download" src="https://github.com/user-attachments/assets/6cf018c6-1b83-49be-8d22-3892d0ef4bc5" />
 <br>
 
-- **i)** Read and Display an Image.
-dth="366" height="481" alt="image" src="https://github.com/user-attachments/assets/d48a1caf-af18-48e3-9659-39c1e7a9d43b" />
 <br>
 ## Result:
 Thus, the image was read and displayed successfully. Brightness and contrast adjustments were performed, the BGR and HSV channels were split and merged successfully, and the required image processing operations were implemented using OpenCV.
